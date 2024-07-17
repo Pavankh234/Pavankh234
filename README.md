@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pavankh234
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python and c language
-- 💞️ I’m looking to collaborate on nothing as im a noob
+- 🌱 I’m currently learning web dev and c++ language
+- 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me .. through mails
 
 <!---
