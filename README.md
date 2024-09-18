@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavankh234
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning web dev and c++ language
+- 👀 I’m interested in  coding
+- 🌱 I’m currently learning web development and doing DSA in C++
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me .. through mails
 
