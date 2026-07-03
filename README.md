@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavankh234
-- 👀 I’m interested in  coding
-- 🌱 I’m currently learning web development and doing DSA in C++
+- 👀 I’m interested in problem solving and learning new technologies.
+- 🌱 I’m like to solve DSA questions.
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me .. through mails
 
